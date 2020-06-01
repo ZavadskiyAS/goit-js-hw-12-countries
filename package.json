@@ -50,6 +50,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "handlebars": "^4.7.3"
+    "handlebars": "^4.7.3",
+    "lodash.debounce": "^4.0.8",
+    "pnotify": "^4.0.0"
   }
 }
